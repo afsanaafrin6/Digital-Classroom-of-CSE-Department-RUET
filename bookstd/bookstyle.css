@@ -1,0 +1,203 @@
+body{
+	margin:0;
+	/*background-image:url("../light.jpg");*/
+
+	font-family: Quattrocento Sans;
+	}
+
+.clr{
+	width:70%;
+	background-color:#D5E8EE;
+	margin-left:15%;
+	padding-top:1%;
+	margin-top:.5%;
+	margin-bottom:.9%;
+	box-shadow:0 0 20px #5F818D;
+	-moz-box-shadow:0 0 20px #5F818D;
+	-webkit-box-shadow:0 0 20px #5F818D;
+}
+
+a{
+	text-decoration:none;
+}
+.fa {
+    
+        
+     font-size: 32px;
+        
+}
+.b>.fa{
+	 font-size: 15px;
+	 color:#2980B9;
+}
+
+.aa{
+	float:left;
+	overflow:hidden;
+	margin-left:14%;
+	font-size:20px;
+	color:#2980B9;
+}
+.b{
+	float:left;
+	overflow:hidden;
+	margin-top:3%;
+}
+.bb{
+	float:left;
+	overflow:hidden;
+	text-align:center-left;
+	font-size:20px;
+	color:#2980B9;
+}
+.bb .fa:hover{
+	-moz-transform: scale(1.5);
+   -webkit-transform: scale(1.5);
+   -o-transform: scale(1.5);
+   transform: scale(1.5);
+   -ms-transform: scale(1.5);
+filter: progid:DXImageTransform.Microsoft.Matrix(sizingMethod='auto expand',
+   M11=2, M12=-0, M21=0, M22=2);
+}
+.aa .fa:hover{
+	-moz-transform: scale(1.5);
+   -webkit-transform: scale(1.5);
+   -o-transform: scale(1.5);
+   transform: scale(1.5);
+   -ms-transform: scale(1.5);
+filter: progid:DXImageTransform.Microsoft.Matrix(sizingMethod='auto expand',
+   M11=2, M12=-0, M21=0, M22=2);
+}
+.center_area{
+    width:100%;
+    margin:auto;
+	background:#2980b9;
+	padding:15px 0;
+	
+
+
+}
+.logo{
+	margin-left:20%;
+	float:left;
+	overflow:hidden;
+}
+.date{
+	color:#FFFFFF;
+}
+.part ul{
+   text-align: center;
+   list-style-type: none;
+ 
+   margin-top: 40px;
+   padding: 0;
+   
+ 
+}
+.part li{
+  display: inline;
+ 
+ }
+ .part{
+	 padding-bottom:18%;
+ }
+.part li a{
+    
+    
+    color: #3A6E96;
+    border:3px solid #2980b9; 
+    padding:20px;
+	padding-left:30px;
+	padding-right:30px;
+    display: inline-block;
+	border-radius:50%;
+    
+	
+}
+
+.part li a:hover{
+	color:white;
+	 background-color:#2980b9; 
+}
+.part > ul > .bb > .active > a {
+	background:#5F818D;
+	color:white;
+}
+
+
+.uk-offcanvas .uk-offcanvas-bar {
+	
+	background:#2980B9;
+	color:white;
+}
+
+.open i{
+	margin-left:25px;
+	float:left;
+	overflow:hidden;
+	width:74%;
+	
+}
+.head h2{
+	color:#FFFFFF;
+	margin-top:5px;
+}
+.open{
+	color:#FFFFFF;
+	font-size:19px;
+}
+.profile a{
+	
+	 text-decoration:underline;
+}
+hr{
+	margin:12px 0;
+}
+.course a{
+	text-decoration:underline;
+	
+	
+}
+.logout {
+	background-color:#FFFFFF;
+
+}
+.logout i{
+	margin-left:46px;
+	color:#2980B9;
+	padding:12px;
+}
+.logout a{
+	color:#2980B9;
+}
+.logout i:hover{
+	background-color:#FEF9E3;
+}
+
+.uk-button-dropdown{
+	margin:10px 0;
+	background:#5F818D;
+}
+.button a{
+	background:linear-gradient(#3498db,#2980b9);	
+font-size:20px;
+color:#FFFFFF;
+border:1px solid #3B6E22;
+padding:3% 170px;
+border-radius:6px;
+}
+.button a:hover{
+	background:linear-gradient(#2980b9,#3498db);
+}
+.uk-dropdown{
+	font-size:20px;
+	
+}
+.uk-button{
+	background:#B6E2FB;
+}
+
+.emty{
+	height:200px;
+}
+
