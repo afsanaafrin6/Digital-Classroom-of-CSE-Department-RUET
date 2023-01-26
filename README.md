@@ -1,1 +1,2 @@
 # Digital-Classroom-of-CSE-Department-RUET
+A web development project for a class where the teacher can upload lectures and video recordings of class lectures, and students can access them. There is  comment section where students can also ask questions if they don't understand the lecture. Additionally, the students can see notices of important information and access books for different semesters.
