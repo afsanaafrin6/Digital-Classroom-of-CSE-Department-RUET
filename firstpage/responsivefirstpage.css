@@ -1,0 +1,167 @@
+@media (max-width:1016px){
+	.submit input{
+		padding:5px 35%;
+		
+	}
+}
+@media (max-width:882px){
+	.tea{
+		font-size:25px;
+		
+	}
+	.std{
+		font-size:25px;
+	}
+	.login{
+		font-size:25px;
+		
+	}
+	.reg{
+		font-size:25px;
+	}
+	.regis label{
+	font-size:22px;
+	}
+	.regis input{
+		font-size:15px;
+	}
+}
+@media (max-width:688px){
+	.tea{
+		font-size:20px;
+		
+	}
+	.std{
+		font-size:20px;
+	}
+	.login_area{
+		padding:60px;
+	}
+	.login{
+		font-size:20px;
+		
+	}
+	.reg{
+		font-size:20px;
+		padding: 10px 16%;
+	}
+	.teacherlogin_area{
+		padding:60px;
+	}
+	.stdlogin_area{
+		padding:60px;
+	}
+	.regis label{
+	font-size:20px;
+	}
+	.regis input{
+		font-size:15px;
+	}
+	.goto h2{
+		font-size:20px;
+	}
+	.dg select{
+		font-size:13px;
+	}
+	.dep select{
+		font-size:13px;
+	}
+	.regis input{
+		font-size:12px;
+	}
+	.regis label{
+	font-size:18px;
+	
+	
+}
+	
+}
+@media (max-width:550px){
+	.tea{
+		font-size:16px;
+		
+	}
+	.std{
+		font-size:16px;
+		margin-top:32px;
+	}
+	.login_area{
+		padding:60px;
+		border-radius: 10px;
+	}
+	.login{
+		font-size:16px;
+		
+	}
+	.reg{
+		font-size:16px;
+		margin-top:32px;
+		padding: 10px 16%;
+	}
+	.teacherlogin_area{
+		padding:60px;
+		border-radius: 10px;
+	}
+	.stdlogin_area{
+		padding:60px;
+		border-radius: 10px;
+	}
+	.regis input{
+		font-size:10px;
+	}
+	
+}
+@media (max-width:440px){
+	.tea{
+		font-size:16px;
+		padding:2px 32%;
+		
+	}
+	.std{
+		font-size:16px;
+		padding:2px 32%;
+		margin-top:32px;
+	}
+	.login_area{
+		padding:50px 20px;
+		width:70%;
+		border-radius: 5px;
+	}
+	.login{
+		font-size:12px;
+		padding:2px 32%;
+		
+	}
+	.reg{
+		font-size:12px;
+		padding:2px 25%;
+		margin-top:32px;
+	}
+	.teacherlogin_area{
+		padding:50px 20px;
+		width:70%;
+		border-radius: 5px;
+	}
+	.stdlogin_area{
+		padding:50px 20px;
+		width:70%;
+		border-radius: 5px;
+	}
+	.regis label{
+	font-size:15px;
+	}
+	.regis input{
+		font-size:10px;
+	}
+	.regis label{
+	font-size:15px;
+}
+.submit input{
+		padding:5px 30%;
+		font-size:15px;
+		
+	}
+
+}
+
+
